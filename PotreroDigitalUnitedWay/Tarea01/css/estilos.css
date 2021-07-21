@@ -1,0 +1,28 @@
+h1{
+  background-color: red;
+  font-size: 35px;
+}
+
+h2{
+  background-color: red;
+  font-size: 20px;
+}
+
+p{
+  background-color: green;
+  font-size: 20px;
+}
+
+.colorBlanco{
+  color: white;
+}
+
+img{
+  width: 400px;
+  height: 400px;
+}
+
+a {
+ color: inherit; /* blue colors for links too */
+ text-decoration: inherit; /* no underline */
+}
